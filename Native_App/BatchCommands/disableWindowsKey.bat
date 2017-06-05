@@ -1,0 +1,1 @@
+REG ADD "HKLM\SYSTEM\CurrentControlSet\Control\Keyboard Layout" /v "Scancode Map" /t "REG_BINARY" /d "00000000000000000300000000005BE000005CE000000000" /f

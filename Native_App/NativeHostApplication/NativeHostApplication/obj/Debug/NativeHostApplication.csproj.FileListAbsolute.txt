@@ -1,0 +1,9 @@
+C:\Projects\Prime_3\Prime3_Native_App\NativeHostApplication\NativeHostApplication\bin\Debug\NativeHostApplication.exe.config
+C:\Projects\Prime_3\Prime3_Native_App\NativeHostApplication\NativeHostApplication\bin\Debug\NativeHostApplication.exe
+C:\Projects\Prime_3\Prime3_Native_App\NativeHostApplication\NativeHostApplication\bin\Debug\NativeHostApplication.pdb
+C:\Projects\Prime_3\Prime3_Native_App\NativeHostApplication\NativeHostApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Prime_3\Prime3_Native_App\NativeHostApplication\NativeHostApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Prime_3\Prime3_Native_App\NativeHostApplication\NativeHostApplication\obj\Debug\NativeHostApplication.exe
+C:\Projects\Prime_3\Prime3_Native_App\NativeHostApplication\NativeHostApplication\obj\Debug\NativeHostApplication.pdb
+C:\Projects\Prime_3\Prime3_Native_App\NativeHostApplication\NativeHostApplication\bin\Debug\System.Management.Automation.dll
+C:\Projects\Prime_3\Prime3_Native_App\NativeHostApplication\NativeHostApplication\obj\Debug\NativeHostApplication.csprojResolveAssemblyReference.cache

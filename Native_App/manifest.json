@@ -1,0 +1,10 @@
+{
+  "name": "com.prime3.interface",
+  "description": "C# application that handles actions on behalf of the Chrome extension",
+  "path": "C:\\Projects\\Prime_3\\Prime3_Native_App\\NativeHostApplication\\NativeHostApplication\\bin\\Debug\\NativeHostApplication.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://ainhepkfpnodjamebekjdlfhelpjpbhp/"
+  ]
+}
+
